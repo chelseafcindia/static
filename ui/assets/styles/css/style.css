@@ -1,5 +1,61 @@
 @charset "utf-8";
 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .md-none {
+      display: none !important;
+    }
+    .at-column:before {
+      padding-top: 67% !important;
+    }
+    .right-column {
+      width: 80% !important;
+    /* margin-left: 15px;
+    float: left; */
+    margin: 30px !important;
+    }
+
+    .fixed_headers {
+    width: 90% !important;
+    margin: 100px 20px !important;
+    }
+    .fixed_headers th {
+      font-size: 13px !important;
+
+    }
+    .fixed_headers td {
+  font-size: 13px !important;
+    }
+
+    .fixed_headers td:nth-child(2), .fixed_headers th:nth-child(2) {
+    min-width: 165px !important;
+}
+  .cabinet img {
+        max-width: 375px !important; 
+  }
+
+  .feed-parent {
+    margin: 20px !important;
+  }
+
+  .feed {
+    width: 100% !important;
+  }
+  .standings {
+    float: inherit !important;
+    margin-left: 0px !important; 
+    width: 100% !important;
+    overflow: auto !important;
+  }
+
+  .nextup {
+    float: inherit !important;
+     margin-left: 0px !important; 
+    width: 100% !important;
+    overflow: auto !important;
+    margin-top: 15px !important;
+  }
+}
 
 /* Jerseys */
 
