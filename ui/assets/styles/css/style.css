@@ -31,7 +31,7 @@
     min-width: 165px !important;
 }
   .cabinet img {
-        max-width: 375px !important; 
+        max-width: 375px !important;
   }
 
   .feed-parent {
@@ -43,14 +43,14 @@
   }
   .standings {
     float: inherit !important;
-    margin-left: 0px !important; 
+    margin-left: 0px !important;
     width: 100% !important;
     overflow: auto !important;
   }
 
   .nextup {
     float: inherit !important;
-     margin-left: 0px !important; 
+     margin-left: 0px !important;
     width: 100% !important;
     overflow: auto !important;
     margin-top: 15px !important;
@@ -62,7 +62,7 @@
 .jersey-sprite img {
   display: inline-block;
   max-width: 60px;
-  width: auto; 
+  width: auto;
   height: auto;
   margin-bottom: 20px;
 }
@@ -372,12 +372,12 @@
 
 .page-content > ::-webkit-scrollbar {
     width: 6px;
-} 
+}
 .page-content > ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
-} 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
 .page-content > ::-webkit-scrollbar-thumb {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 }
 .squad-heads {
     padding-bottom: 5px;
@@ -450,12 +450,12 @@
 }
 .fixed_headers > ::-webkit-scrollbar {
     width: 6px;
-} 
+}
 .fixed_headers > ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
-} 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
 .fixed_headers > ::-webkit-scrollbar-thumb {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 }
 
 
@@ -598,6 +598,7 @@
 .at-column:hover {
   z-index: 1;
   box-shadow: 0 8px 50px rgba(0, 0, 0, 0.2);
+  padding: 10px 0;
   -webkit-transform: scale(1.05);
           transform: scale(1.05);
   -webkit-transition: box-shadow 0.2s ease, z-index 0s 0s ease, -webkit-transform 0.2s ease;
@@ -8997,7 +8998,7 @@ body.is-firefox .js-view-icon {
   outline-color: white;
 }
 .darkishblue {
-   color: #182737; 
+   color: #182737;
    /* color: rgb(17, 12, 84);  */
 }
   .color-reddish {
@@ -9064,7 +9065,7 @@ button.bg-white-20:hover {
 }
 .bg-grid {
   /* background: #271325; */
-  background: #F7E941; 
+  background: #F7E941;
 }
 .color-grid {
   color: #FB6247;
