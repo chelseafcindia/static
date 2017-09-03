@@ -71,7 +71,7 @@
 .main-gallery-grid {
   max-width: 800px;
   width: 90%;
-  margin: 100px 90px;
+  margin: 54px 90px;
   display: block;
 }
 .main-gallery-grid:after {
@@ -937,11 +937,12 @@ body.is-in .js-spiral-overlay rect {
   transition: 2s;
 }
 h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Roboto", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   letter-spacing: .02em;
   margin: 0;
+  font-size: 5em;
 }
 h2 {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
