@@ -688,7 +688,10 @@
   fill: #788D96;
 }
 
-
+.social-icons {
+    width: 18px;
+    height: 12px;
+}
 body {
   background: #FFF;
   font-family: 'Roboto', sans-serif;
