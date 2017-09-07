@@ -8871,8 +8871,10 @@ body.is-firefox .js-view-icon {
   fill: #f11b1b;
 }
 .blue {
-  color: #034694;
-  fill: #034694;
+  /*color: #034694;
+  fill: #034694;*/
+  color: #2747B4;
+  fill: #2747B4;
 }
 .purple {
   color: #271325;
