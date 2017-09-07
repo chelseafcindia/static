@@ -416,7 +416,7 @@
 }
 .fixed_headers td:nth-child(2),
 .fixed_headers th:nth-child(2) {
-  min-width: 200px;
+  min-width: 235px;
 }
 .fixed_headers td:nth-child(3),
 .fixed_headers th:nth-child(3) {
@@ -684,6 +684,7 @@
 .at-social__item svg:hover {
   fill: #788D96;
 }
+
 
 body {
   background: #FFF;
