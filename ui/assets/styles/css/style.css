@@ -5,6 +5,9 @@
     .md-none {
       display: none !important;
     }
+    .yes-title {
+      margin-top: 1.5em !important;
+    }
     .at-column:before {
       padding-top: 67% !important;
     }
