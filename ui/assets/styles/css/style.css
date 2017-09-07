@@ -117,14 +117,14 @@
 }
 .gallery-grid img {
   display: block;
-  padding: 10px;
-  float: left;
-  width: 10%;
+  /*padding: 40px;*/
+  /*float: left;*/
+  width: 15%;
   -webkit-transition: 0.3s;
   transition: 0.3s;
   -webkit-transform: scale(1);
           transform: scale(1);
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 
